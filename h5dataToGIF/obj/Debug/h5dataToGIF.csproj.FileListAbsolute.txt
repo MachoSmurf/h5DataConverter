@@ -1,0 +1,9 @@
+c:\users\ms-laptop\documents\visual studio 2017\Projects\h5dataToGIF\h5dataToGIF\bin\Debug\h5dataToGIF.exe.config
+c:\users\ms-laptop\documents\visual studio 2017\Projects\h5dataToGIF\h5dataToGIF\bin\Debug\h5dataToGIF.exe
+c:\users\ms-laptop\documents\visual studio 2017\Projects\h5dataToGIF\h5dataToGIF\bin\Debug\h5dataToGIF.pdb
+c:\users\ms-laptop\documents\visual studio 2017\Projects\h5dataToGIF\h5dataToGIF\obj\Debug\h5dataToGIF.csprojResolveAssemblyReference.cache
+c:\users\ms-laptop\documents\visual studio 2017\Projects\h5dataToGIF\h5dataToGIF\obj\Debug\h5dataToGIF.Form1.resources
+c:\users\ms-laptop\documents\visual studio 2017\Projects\h5dataToGIF\h5dataToGIF\obj\Debug\h5dataToGIF.Properties.Resources.resources
+c:\users\ms-laptop\documents\visual studio 2017\Projects\h5dataToGIF\h5dataToGIF\obj\Debug\h5dataToGIF.csproj.GenerateResource.Cache
+c:\users\ms-laptop\documents\visual studio 2017\Projects\h5dataToGIF\h5dataToGIF\obj\Debug\h5dataToGIF.exe
+c:\users\ms-laptop\documents\visual studio 2017\Projects\h5dataToGIF\h5dataToGIF\obj\Debug\h5dataToGIF.pdb
